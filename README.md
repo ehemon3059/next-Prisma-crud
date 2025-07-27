@@ -249,18 +249,7 @@ Contributions are welcome! Here's how you can help:
 - Test your changes thoroughly
 - Update documentation if needed
 
-## 📝 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 🐛 Issues & Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/user-crud-app/issues) tab
-2. Create a new issue with detailed description
-3. Include screenshots if applicable
-4. Mention your environment (OS, Node version, etc.)
 
 ## 🎯 Learning Outcomes
 
